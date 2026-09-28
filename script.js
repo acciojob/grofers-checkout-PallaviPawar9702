@@ -13,7 +13,7 @@ const getSum = () => {
   let cell = document.createElement("td")
   cell.innerHTML = sum
   row.appendChild(cell)
-  document.querySelector("Table").appendChild(row)
+  document.querySelector("table").appendChild(row)
 //Add your code here
   
 };
